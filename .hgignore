@@ -1,2 +1,7 @@
 syntax: glob
 *.txt
+
+*.o
+*.hi
+p??
+p???
